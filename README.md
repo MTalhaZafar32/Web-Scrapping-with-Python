@@ -6,20 +6,20 @@ Welcome to the Web Scraping with Python repository! In this repository, we will 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- .
-- .
-- .
-- .
-- .
-- .
-- .
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 ## Getting Started
 
 To get started with web scraping, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/web-scraping-python.git
+git clone https://github.com/MTalhaZafar32/Web-Scrapping-with-Python.git
 cd web-scraping-python
 ```
 
